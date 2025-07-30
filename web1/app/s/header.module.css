@@ -1,0 +1,94 @@
+body{
+    background-color: rgb(221, 186, 160);
+    display: flex;
+    
+}
+
+
+.navbar {
+    background-color: rgb(50, 71, 106);
+    color: rgb(255, 255, 255);
+    width: 1500px;
+}
+
+
+
+
+
+.header{
+    background-color:rgb(62, 88, 121);   
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+.header h1{
+    padding-top: 10px;
+    padding-left: 700px;
+    padding-bottom: 10px;
+    font-size:  15px;    
+    margin-bottom: 100px;
+    
+}
+
+
+.profile{
+    font-size: 20px;
+    color: antiquewhite;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+
+.text{
+    font-size: small;
+    padding-top: 10px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+
+.card1{
+    background-color: rgb(62, 88, 121);
+    padding: 20px;
+    border-radius: 10;
+    margin-right: 950px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+
+.pfp{
+    margin-left: 150px;
+    
+}
+
+
+
+.gambar{
+    margin-left: 650px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+
+
+
+
+
+
+.container {
+    display: flex; /* Menggunakan flexbox untuk menyusun elemen dalam satu baris */
+    justify-content: space-between; /* Memberikan jarak antara elemen */
+    align-items: flex-start; /* Menyusun elemen secara vertikal di atas */
+}
+
+
+.cardRight {
+    /* Gaya untuk card di sebelah kanan */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color:rgb(33, 53, 85);
+    width: 250px; /* Atur lebar sesuai kebutuhan */
+    margin-left: 1243px;
+    align-items: flex;
+    font-size: 27px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+
+.cardRight h1{
+    padding-left: 20px;
+}
+
+
+

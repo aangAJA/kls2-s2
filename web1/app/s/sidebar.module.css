@@ -1,0 +1,25 @@
+.nav {
+    background: rgb(33, 53, 85);
+    height: 90px;
+    width: 900px;
+    text-align: center;
+    margin-left: 300px;
+    padding-top: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+
+.navbar{
+    background: rgb(216, 196, 182);
+    border-radius: 9%;
+    height: 57px;
+    width: 600px;
+    color: black;
+}
+
+.navbar h3{
+    font-size: 40px;
+}
+
